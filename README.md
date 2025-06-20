@@ -10,14 +10,9 @@
   <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryancomine&layout=compact&theme=dark">
 </div>
 
-## Conhecimento Básico
 <div>
   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">        
   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-</div>
-
-## Aprendendo
-<div>
   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
