@@ -1,7 +1,6 @@
 ## Oiê, me chamo Ryan 👋
 
-- 🔭 Atualmente trabalho com logística
-- 🌱 Estou aprendendo Python
+- 💻 Cursando Engenharia de Software
 - 😄 Pronomes: Ele/Dele
 
 <div>
