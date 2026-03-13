@@ -1,7 +1,6 @@
-## Oiê, me chamo Ryan 👋
+## Hii, my name is Ryan 👋
 
-- 💻 Cursando Engenharia de Software
-- 😄 Pronomes: Ele/Dele
+- 💻 Studying Software Engineering
 
 <div>
   <a href="">
