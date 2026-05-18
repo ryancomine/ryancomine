@@ -1,7 +1,5 @@
 ## Hii, my name is Ryan 👋
 
-- 💻 Studying Software Engineering
-
 <div>
   <a href="">
   <img height="100%" src="https://github-readme-stats.vercel.app/api?username=ryancomine&show_icons=true&theme=dark">
